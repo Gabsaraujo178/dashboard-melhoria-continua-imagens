@@ -19,13 +19,13 @@ O dashboard reúne indicadores mensais e semanais em uma interface executiva e i
 
 A visão geral apresenta os principais indicadores do período, a evolução da movimentação, o resumo mensal e o ranking das cidades com os maiores resultados.
 
-![Visão geral do dashboard](imagens/dashboard-visao-geral.png)
+![Visão geral do dashboard](imagens/dashboard%20-%20visao-geral.png)
 
 ## 🏙️ Análise por cidade
 
 A análise por cidade permite acompanhar individualmente a movimentação, a evolução em relação ao mês anterior, a posição no ranking e o histórico mensal do município selecionado.
 
-![Análise do dashboard por cidade](imagens/dashboard-visao-bauru.png)
+![Análise do dashboard por cidade](imagens/dashboard%20-%20visao.png)
 
 ## 🛠️ Tecnologias utilizadas
 
